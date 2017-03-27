@@ -1,0 +1,14 @@
+{
+  "name": "@chalypeng/hottonpmtest",
+  "version": "1.0.0",
+  "description": "how to npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "chalypeng",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
